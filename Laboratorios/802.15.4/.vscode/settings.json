@@ -1,7 +1,7 @@
 {
   "C_Cpp.intelliSenseEngine": "default",
   "idf.espIdfPath": "/home/tatan/esp/esp-idf",
-  "idf.pythonInstallPath": "/home/tatan/.espressif/python_env/idf5.1_py3.12_env/bin/python",
+  "idf.pythonInstallPath": "C:\\Users\\tatan\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
   "idf.openOcdConfigs": [
     "board/esp32c6-ftdi.cfg"
   ],
